@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>image/backspace.png</file>
+    <file>image/calculate.png</file>
+  </qresource>
+</RCC>
